@@ -23,13 +23,14 @@ This repository contains the official implementation of [SemVarBench]().
 
 <table class="center">
     <tr>
-    <td width=100% style="border: none"><img src="figs/evaluation_pipeline_ACE_v10.pdf" style="width:100%"></td>
+    <td width=100% style="border: none"><img src="figs/evaluation_pipeline_ACE_v10.jpg" style="width:100%"></td>
     </tr>
     <tr>
-    <td width="100%" style="border: none; text-align: center; word-wrap: break-word">Overview of our ContextDiff
+    <td width="100%" style="border: none; text-align: center; word-wrap: break-word">Overview of the evaluation based on SemVarBench.
 </td>
   </tr>
 </table>
+
 
 We propose a novel metric called (**SemVarEffect**)() and a benchmark named (**SemVarBench**)(), designed to evaluate the causality between semantic variations in inputs and outputs in T2I synthesis. 
 
