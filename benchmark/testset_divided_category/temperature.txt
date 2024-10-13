@@ -1,0 +1,4 @@
+39_365_339	The hot coffee is in the mug and the cold tea is in the glass.	The cold tea is in the mug and the hot coffee is in the glass.	The cold tea is in the glass and the hot coffee is in the mug.
+297_11_11	The pizza on the plate is hot and the one in the box is not.	The pizza in the box is hot and the one on the plate is not.	The pizza in the box is not hot and the one on the plate is.
+183_271_144	The ice cream in the cone is melting while the ice cream in the cup is frozen.	The ice cream in the cup is melting while the ice cream in the cone is frozen.	The ice cream in the cup is frozen while the ice cream in the cone is melting.
+258_260_209	The grill is full of sizzling burgers and the plate is empty.	The plate is full of sizzling burgers and the grill is empty.	The plate is empty and the grill is full of sizzling burgers.

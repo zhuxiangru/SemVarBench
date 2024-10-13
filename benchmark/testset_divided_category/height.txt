@@ -1,0 +1,50 @@
+294_265_183	The tree is tall but the bush is short.	The tree is short but the bush is tall.	The bush is short but the tree is tall.
+157_431_161	The bridge is taller than the cars.	The cars are taller than the bridge.	The cars are shorter than the bridge.
+183_263_136	The person in the front is short while the person in the back is tall.	The person in the back is short while the person in the front is tall.	The person in the back is tall while the person in the front is short.
+157_290_123	The ostriches are taller than the flamingos.	The flamingos are taller than the ostriches.	The flamingos are shorter than the ostriches.
+157_510_179	The cranes are taller than the bulldozers.	The bulldozers are taller than the cranes.	The bulldozers are shorter than the cranes.
+43_383_300	A tall tree is standing next to a short bush.	A short tree is standing next to a tall bush.	Next to a short bush is a tall tree standing.
+157_3_1	The giraffes are taller than the elephants.	The elephants are taller than the giraffes.	The elephants are shorter than the giraffes.
+157_426_160	The giraffe is taller than the zebra.	The zebra is taller than the giraffe.	The zebra is shorter than the giraffe.
+308_v2_183_479	A taller tree is shading a shorter bush.	A shorter tree is shading a taller bush.	A shorter bush is shaded by a taller tree.
+43_360_283	A tall tree is growing next to a short shrub.	A short tree is growing next to a tall shrub.	Next to a short shrub, a tall tree is growing.
+122_117_79	Tall tree beside a short bush.	Short tree beside a tall bush.	A short bush beside a tall tree.
+157_193_87	The camels are taller than the horses.	The horses are taller than the camels.	The horses are shorter than the camels.
+157_87_40	The palm trees are taller than the street lamps.	The street lamps are taller than the palm trees.	The street lamps are shorter than the palm trees.
+294_20_17	The sunflower is tall but the daisy is short.	The sunflower is short but the daisy is tall.	The daisy is short but the sunflower is tall.
+248_66_38	Two women; the one in the dress has high heels and the one in the pants doesn't.	Two women; the one in the pants has high heels and the one in the dress doesn't.	Two women; the one in the pants doesn't have high heels, and the one in the dress does.
+120_70_62	The child on the swing is higher than the other children on the seesaw.	The child on the swing is lower than the other children on the seesaw.	The other children on the seesaw are lower than the child on the swing.
+225_420_299	The tall tree is beside the short house.	The short tree is beside the tall house.	Beside the short house is the tall tree.
+308_v2_54_388	A taller person is standing behind a shorter person.	A shorter person is standing behind a taller person.	A shorter person is standing in front of a taller person.
+30_303_197	A tall tree is behind a short fence.	A short tree is behind a tall fence.	Behind a short fence is a tall tree.
+157_369_137	The adults are taller than the children.	The children are taller than the adults.	The children are shorter than the adults.
+157_502_176	The windmills are taller than the barns.	The barns are taller than the windmills.	The barns are shorter than the windmills.
+157_511_180	The pylon is taller than the lamp post.	The lamp post is taller than the pylon.	The lamp post is shorter than the pylon.
+43_305_234	A tall tree stands beside a short bush.	A short tree stands beside a tall bush.	A short bush is beside a tall tree.
+33_347_237	The low chair has a high back.	The high chair has a low back.	The high back is on the low chair.
+157_377_142	The waves are taller than the surfers.	The surfers are taller than the waves.	The surfers are shorter than the waves.
+157_245_97	The giraffe is taller than the elephant.	The elephant is taller than the giraffe.	The elephant is shorter than the giraffe.
+145_v2_225_126	There are some tall green cacti and more short red roses.	There are some short red cacti and more tall green roses.	There are some short red roses and less tall green cacti.
+126_v2_302_633	The person in the hat is tall and the person without a hat is short.	The person in the hat is short and the person without a hat is tall.	The person without a hat is short and the person in the hat is tall.
+157_76_32	The wind turbines are taller than the farmhouses.	The farmhouses are taller than the wind turbines.	The farmhouses are shorter than the wind turbines.
+157_250_101	The tower is taller than the bridge.	The bridge is taller than the tower.	The bridge is shorter than the tower.
+157_258_108	The water slide is taller than the pool.	The pool is taller than the water slide.	The pool is shorter than the water slide.
+157_262_112	The castle tower is taller than the castle wall.	The castle wall is taller than the castle tower.	The castle wall is shorter than the castle tower.
+157_438_165	The wind turbines are taller than the houses nearby.	The houses nearby are taller than the wind turbines.	The houses nearby are shorter than the wind turbines.
+1_205_518	The little girl dances with the tall man.	The tall girl dances with the little man.	The tall man dances with the little girl.
+43_399_311	A tall tree stands beside a small pond.	A small tree stands beside a tall pond.	Beside a small pond, a tall tree stands.
+35_182_141	A tall tree is in front of a small house.	A small tree is in front of a tall house.	In front of a small house is a tall tree.
+122_78_52	Short fence beside a tall tree.	Tall fence beside a short tree.	A tall tree beside a short fence.
+185_39_33	There are two trees, and the tree on the right is taller than the tree on the left.	There are two trees, and the tree on the left is taller than the tree on the right.	There are two trees, and the tree on the left is shorter than the tree on the right.
+105_273_363	There is a tall brown tree with a small green bird.	There is a small green tree with a tall brown bird.	A small green bird is on a tall brown tree.
+126_v2_165_531	The person in the hat is tall and the person in the glasses is short.	The person in the hat is short and the person in the glasses is tall.	The person in the glasses is short and the person in the hat is tall.
+157_9_6	The wind turbines are taller than the houses in the neighborhood.	The houses in the neighborhood are taller than the wind turbines.	In the neighborhood, the wind turbines are taller than the houses.
+157_74_30	The sunflowers are taller than the daisies.	The daisies are taller than the sunflowers.	The daisies are shorter than the sunflowers.
+157_104_48	The wind turbines are taller than the houses.	The houses are taller than the wind turbines.	The houses are shorter than the wind turbines.
+157_169_76	The cacti are taller than the shrubs.	The shrubs are taller than the cacti.	The shrubs are shorter than the cacti.
+157_189_85	The palm trees are taller than the bushes.	The bushes are taller than the palm trees.	The bushes are shorter than the palm trees.
+157_190_86	The statues are taller than the benches.	The benches are taller than the statues.	The benches are shorter than the statues.
+157_195_88	The cranes are taller than the trucks.	The trucks are taller than the cranes.	The trucks are shorter than the cranes.
+157_257_107	The dinosaur skeleton is taller than the museum visitors.	The museum visitors are taller than the dinosaur skeleton.	The museum visitors are shorter than the dinosaur skeleton.
+160_v2_224_99	A basketball hoop; its net is shorter than its backboard.	A basketball hoop; its backboard is shorter than its net.	A basketball hoop; its backboard is taller than its net.
+47_342_98	The basketball player jumps high but the rim is low.	The basketball player jumps low but the rim is high.	The rim is low but the basketball player jumps high.

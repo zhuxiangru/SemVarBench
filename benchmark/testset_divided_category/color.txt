@@ -1,0 +1,50 @@
+107_v2_278_239	The actor is wearing a black tuxedo and white bow tie.	The actor is wearing white tuxedo and black bow tie.	The actor is wearing a white bow tie and a black tuxedo.
+105_388_209	Bright red lipstick with dark black eyeliner.	Dark black lipstick with bright red eyeliner.	Dark black eyeliner with bright red lipstick.
+30_192_125	A colorful painting is hanging next to a plain wall.	A plain painting is hanging next to a colorful wall.	Next to a plain wall, a colorful painting is hanging.
+126_v2_72_453	The mountain in the distance has snowy peak and the hill by the river has green peak.	The mountain in the distance has green peak and the hill by the river has snowy peak.	The hill by the river has a green peak and the mountain in the distance has a snowy peak.
+252_32_26	A green apple with a brown stem.	A brown apple with a green stem.	A brown stem with a green apple.
+328_155_142	The child with the blue backpack runs towards the teacher without a backpack.	The child without a backpack runs towards the teacher with the blue backpack.	The child without a backpack runs towards the teacher with the blue backpack.
+294_262_180	The grass is green but the pavement is gray.	The grass is gray but the pavement is green.	The pavement is gray but the grass is green.
+126_v1_271_235	The pen on the desk is blue and the pencil on the table is yellow.	The pen on the desk is yellow and the pencil on the table is blue.	The pencil on the table is yellow and the pen on the desk is blue.
+87_325_51	The unfiltered water has a cloudy appearance.	The water filtered has a clear appearance.	The water has a cloudy appearance and is unfiltered.
+273_v2_498_450	A police officer in a black uniform is holding a white flashlight.	A police officer in a white uniform is holding a black flashlight.	A police officer is holding a white flashlight in a black uniform.
+269_225_64	The apple is red on a brown branch.	The apple is brown on a red branch.	On a brown branch, the apple is red.
+297_37_35	The apple on the tree is ripe and the one on the ground is not.	The apple on the ground is ripe and the one on the tree is not.	The one on the ground is not ripe and the apple on the tree is.
+261_v2_233_212	The waiter is wearing a black vest over a white shirt.	The waiter is wearing a white vest over a black shirt.	A black vest is being worn by the waiter over a white shirt.
+30_494_302	A yellow banana is beside a green apple.	A green banana is beside a yellow apple.	A green apple is beside a yellow banana.
+252_367_239	A silver necklace with a gold pendant.	A gold necklace with a silver pendant.	A gold pendant with a silver necklace.
+269_41_180	The grass is green on the brown earth.	The grass is brown on the green earth.	On the brown earth, the grass is green.
+106_50_49	The doctor is wearing a white lab coat and black stethoscope.	The doctor is wearing a black lab coat and white stethoscope.	A white lab coat and a black stethoscope are being worn by the doctor.
+279_179_132	The candle on the left is burning brightly while the one on the right is extinguished.	The candle on the left is extinguished while the one on the right is burning brightly.	The one on the right is extinguished while the candle on the left is burning brightly.
+109_v2_146_126	The firefighter is wearing a yellow helmet and black firefighting suit.	The firefighter is wearing black helmet and yellow firefighting suit.	The firefighter is wearing a black firefighting suit and a yellow helmet.
+126_v2_185_547	The car in the garage is red and the car in the driveway is blue.	The car in the garage is blue and the car in the driveway is red.	The car in the garage is red, and the car in the driveway is blue.
+126_v2_200_560	The coffee in the mug is black and the tea in the cup is green.	The coffee in the mug is green and the tea in the cup is black.	The tea in the cup is green and the coffee in the mug is black.
+100_v1_69_55	The colorful painting is on the wall and the blank canvas is on the easel.	The blank canvas is on the wall and the colorful painting is on the easel.	The blank canvas is on the easel and the colorful painting is on the wall.
+87_97_180	The burnt toast has a blackened crust.	The unburnt toast has a unblackened crust.	The blackened crust is on the burnt toast.
+67_127_102	The athlete in a purple jersey scores a goal and the referee in a striped shirt blows the whistle.	The athlete in a striped jersey scores a goal and the referee in a purple shirt blows the whistle.	The referee in a striped shirt blows the whistle and the athlete in a purple jersey scores a goal.
+107_v2_169_150	The scientist is wearing white lab coat and black safety glasses.	The scientist is wearing black lab coat and white safety glasses.	The scientist is wearing black safety glasses and a white lab coat.
+106_30_29	The scientist is wearing a white lab coat and black gloves.	The scientist is wearing a black lab coat and white gloves.	The scientist is wearing black gloves and a white lab coat.
+106_504_407	The lifeguard is wearing a red swimsuit and black sunglasses.	The lifeguard is wearing black swimsuit and red sunglasses.	The lifeguard is wearing black sunglasses and a red swimsuit.
+35_217_164	A silver watch is beside a golden necklace.	A golden watch is beside a silver necklace.	A golden necklace is beside a silver watch.
+266_12_12	The buttons on the red shirt are round and the ones on the blue shirt are square.	The buttons on the red shirt are square and the ones on the blue shirt are round.	The round buttons are on the red shirt and the square ones are on the blue shirt.
+266_435_406	The left shoes are black and the right ones are white.	The left shoes are white and the right ones are black.	The right shoes are white and the left ones are black.
+185_102_81	There are two shirts, and the shirt on the right is brighter than the shirt on the left.	There are two shirts, and the shirt on the left is brighter than the shirt on the right.	There are two shirts, and the shirt on the left is less bright than the shirt on the right.
+109_v2_4_2	The doctor is wearing a green scrubs and white lab coat.	The doctor is wearing a white scrubs and green lab coat.	The doctor is wearing a white lab coat and green scrubs.
+109_v2_86_73	The writer is wearing a gray sweater and blue jeans.	The writer is wearing blue sweater and gray jeans.	The writer is wearing blue jeans and a gray sweater.
+105_20_226	Fresh green salad with crisp red tomatoes.	Crisp red salad with fresh green tomatoes.	Crisp red tomatoes with fresh green salad.
+105_69_256	There is a huge blue whale with a tiny orange clownfish.	There is a tiny orange whale with a huge blue clownfish.	There is a tiny orange clownfish with a huge blue whale.
+30_267_174	A green apple is on top of a yellow banana.	A yellow apple is on top of a green banana.	A yellow banana is beneath a green apple.
+30_361_232	A silver coin is inside a gold box.	A gold coin is inside a silver box.	Inside a gold box is a silver coin.
+341_v2_308_195	A woman wearing a yellow raincoat with her umbrella in the air and a man wearing a gray coat.	A woman wearing a gray coat with her umbrella in the air and a man wearing a yellow raincoat.	A man wearing a gray coat and a woman wearing a yellow raincoat with her umbrella in the air.
+391_v2_304_245	The musician wears a polka dot bowtie over a white dress shirt with a collar.	The musician wears a white bowtie over a polka dot dress shirt with a collar.	Over a white dress shirt with a collar, the musician wears a polka dot bowtie.
+391_v2_389_318	The skater wears a denim vest over a graphic t-shirt with a round neck collar.	The skater wears a graphic vest over a denim t-shirt with a round neck collar.	A denim vest is worn by the skater over a graphic t-shirt with a round neck collar.
+32_299_257	Chefs in white uniforms with a golden frying pan in their hands.	Chefs in golden uniforms with a white frying pan in their hands.	In white uniforms with a golden frying pan in their hands, chefs.
+328_156_143	The bird with colorful feathers flies over the bird without any feathers.	The bird without any feathers flies over the bird with colorful feathers.	The bird without any feathers is flown over by the bird with colorful feathers.
+357_249_138	A bird with colorful feathers is flying above a bird without feathers.	A bird without feathers is flying above a bird with colorful feathers.	Above a bird without feathers, a bird with colorful feathers is flying.
+117_4_4	The golden necklace is on the dresser and the silver bracelet is on the nightstand.	The silver necklace is on the dresser and the golden bracelet is on the nightstand.	The silver bracelet is on the nightstand and the golden necklace is on the dresser.
+117_204_167	The colorful painting is on the wall and the black and white photograph is on the table.	The black and white painting is on the wall and the colorful photograph is on the table.	The black and white photograph is on the table and the colorful painting is on the wall.
+117_395_316	The purple grape is on the plate and the green apple is in the basket.	The green grape is on the plate and the purple apple is in the basket.	The green apple is in the basket and the purple grape is on the plate.
+107_v2_138_123	The pilot is wearing blue aviator sunglasses and white gloves.	The pilot is wearing white aviator sunglasses and blue gloves.	The pilot is wearing white gloves and blue aviator sunglasses.
+297_59_56	The cookie on the plate is chocolate chip and the one on the counter is not.	The cookie on the counter is chocolate chip and the one on the plate is not.	The one on the counter is not chocolate chip, while the cookie on the plate is.
+106_31_30	The bride is wearing a white veil and red lipstick.	The bride is wearing a red veil and white lipstick.	The bride is wearing red lipstick and a white veil.
+106_290_257	The construction worker is wearing a yellow hard hat and orange safety vest.	The construction worker is wearing a orange hard hat and yellow safety vest.	The construction worker is wearing an orange safety vest and a yellow hard hat.

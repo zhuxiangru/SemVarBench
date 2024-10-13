@@ -1,0 +1,43 @@
+207_310_245	A larger fish eating a smaller fish.	A smaller fish eating a larger fish.	A smaller fish is being eaten by a larger fish.
+308_v2_118_432	A larger balloon is lifting a smaller one.	A smaller balloon is lifting a larger one.	A smaller one is being lifted by a larger balloon.
+308_v2_450_656	A bigger dog is chasing a smaller cat.	A smaller dog is chasing a bigger cat.	A smaller cat is being chased by a bigger dog.
+186_237_103	The player on the court is shooting hoops and the referee on the sideline is making calls.	The player on the sideline is shooting hoops and the referee on the court is making calls.	The referee on the sideline is making calls and the player on the court is shooting hoops.
+368_354_98	The lawyer is presenting the evidence to the judge.	The judge is presenting the evidence to a lawyer.	The evidence is being presented to the judge by the lawyer.
+308_v1_277_115	The parent is covering the eyes of the child with a toy.	The child is covering the eyes of the parent with a toy.	The parent is covering the child's eyes with a toy.
+278_447_236	The baby on the left is crying and the parent on the very right is comforting them.	The baby on the left is comforting them and the parent on the very right is crying.	The parent on the very right is comforting them and the baby on the left is crying.
+24_121_87	The person on the left reads and the person on the right listens to music.	The person on the left listens to music and the person on the right reads.	The person on the right listens to music and the person on the left reads.
+368_488_124	A dog is licking the face of a child with its tongue.	A child is licking the face of a dog with its tongue.	The face of a child is being licked by a dog with its tongue.
+308_v1_290_120	The waiter is covering the eyes of the customer with a menu.	The customer is covering the eyes of the waiter with a menu.	The waiter is covering the customer's eyes with a menu.
+0_61_326	The cat chases the mouse.	The mouse chases the cat.	The mouse is chased by the cat.
+308_v2_65_396	A larger fish is swallowing the tail of a smaller fish.	A smaller fish is swallowing the tail of a larger fish.	The tail of a smaller fish is being swallowed by a larger fish.
+308_v2_167_467	A younger child is hugging the leg of an older parent.	An older parent is hugging the leg of a younger child.	The leg of an older parent is being hugged by a younger child.
+309_26_3	The golfer is hitting the ball.	The ball is hitting the golfer.	The ball is being hit by the golfer.
+2_89_25	The dog chases the cat.	The cat chases the dog.	The cat is chased by the dog.
+308_v1_8_7	The soldier is covering the eyes of the prisoner with a bandana.	The prisoner is covering the eyes of the soldier with a bandana.	The soldier is covering the prisoner's eyes with a bandana.
+308_v1_98_36	A taller building is casting a shadow over a shorter one.	A shorter building is casting a shadow over a taller one.	A shadow is being cast over a shorter building by a taller one.
+8_159_26	A skateboard hit a rock.	A rock hit a skateboard.	A rock was hit by a skateboard.
+349_2_2	A teacher whispering into a student's ear during a test.	A student whispering into a teacher's ear during a test.	During a test, a teacher whispers into a student's ear.
+349_66_27	A doctor whispering into a patient's ear.	A patient whispering into a doctor's ear.	Into a patient's ear, a doctor is whispering.
+272_v2_260_169	The architect is using the ruler while the blueprint is close by.	The architect is using the blueprint while the ruler is close by.	While the blueprint is close by, the architect is using the ruler.
+207_364_288	A wealthy person donating to a poor person.	A poor person donating to a wealthy person.	A poor person is receiving donations from a wealthy person.
+308_v1_159_60	The astronaut is covering the eyes of the alien with a helmet.	The alien is covering the eyes of the astronaut with a helmet.	The astronaut is covering the alien's eyes with a helmet.
+308_v1_297_123	The clown is covering the eyes of the audience member with a red nose.	The audience member is covering the eyes of the clown with a red nose.	The clown with a red nose is covering the eyes of the audience member.
+308_v2_424_640	A stronger hand is holding down a weaker arm.	A weaker hand is holding down a stronger arm.	A weaker arm is being held down by a stronger hand.
+276_390_185	The happy dog is wagging its tail while the cat is sleeping.	The happy dog is sleeping while the cat is wagging its tail.	While the cat is sleeping, the happy dog is wagging its tail.
+339_2_1	A dog chasing a cat.	A cat chasing a dog.	A cat being chased by a dog.
+0_224_341	The firefighter rescues the family from the burning building.	The family rescues the firefighter from the burning building.	The family is rescued by the firefighter from the burning building.
+349_31_19	A child singing into a doll's ear.	A doll singing into a child's ear.	Into a doll's ear, a child is singing.
+349_415_121	A baby crying into a parent's ear.	A parent crying into a baby's ear.	Into a parent's ear, a baby is crying.
+309_31_4	The dog is chasing the cat.	The cat is chasing the dog.	The cat is being chased by the dog.
+170_v2_263_321	A giant squid attacking a ship, and the squid is bigger than the ship.	A ship attacking a giant squid, and the ship is bigger than the squid.	A squid, bigger than the ship, is attacking a ship.
+154_390_129	A robot is serving tea to a group of children next to a parent.	A parent is serving tea to a group of children next to a robot.	A robot next to a parent is serving tea to a group of children.
+207_333_261	A larger animal protecting a smaller one.	A smaller animal protecting a larger one.	A smaller one protected by a larger animal.
+207_476_360	A bigger fish eating a smaller fish.	A smaller fish eating a bigger fish.	A smaller fish being eaten by a bigger fish.
+92_84_77	The doctor treats the patient kindly while the receptionist answers the phone rudely.	The doctor treats the patient rudely while the receptionist answers the phone kindly.	While the receptionist rudely answers the phone, the doctor kindly treats the patient.
+308_v1_31_24	A giant panda is covering the eyes of a tiny mouse with its paw.	A tiny mouse is covering the eyes of a giant panda with its paw.	A tiny mouse is having its eyes covered by the paw of a giant panda.
+308_v1_170_68	The waiter is covering the eyes of the diner with a menu.	The diner is covering the eyes of the waiter with a menu.	The eyes of the diner are being covered by the waiter with a menu.
+308_v1_174_71	The soldier is covering the eyes of the prisoner with a hood.	The prisoner is covering the eyes of the soldier with a hood.	The soldier is covering the prisoner's eyes with a hood.
+308_v1_275_114	The teacher is covering the eyes of the student with a book.	The student is covering the eyes of the teacher with a book.	The teacher is covering the student's eyes with a book.
+85_v2_307_4	The dog who is wearing a hat is chasing a squirrel.	The dog is chasing a squirrel who is wearing a hat.	A squirrel is being chased by the dog who is wearing a hat.
+349_65_26	A teacher whispering into a student's ear.	A student whispering into a teacher's ear.	Into a student's ear, a teacher is whispering.
+308_v1_369_188	The magician is covering the eyes of the audience with a silk scarf.	The audience is covering the eyes of the magician with a silk scarf.	The magician is covering the audience's eyes with a silk scarf.

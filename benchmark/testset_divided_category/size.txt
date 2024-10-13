@@ -1,0 +1,50 @@
+122_116_78	Fat man beside a skinny girl.	Skinny man beside a fat girl.	Skinny girl beside a fat man.
+160_v2_40_19	A plane; its tail is shorter than its wingspan.	A plane; its wingspan is shorter than its tail.	Its tail is shorter than its wingspan; a plane.
+207_310_245	A larger fish eating a smaller fish.	A smaller fish eating a larger fish.	A smaller fish is being eaten by a larger fish.
+126_v2_403_711	The book on the table is thick and the notebook on the chair is thin.	The book on the table is thin and the notebook on the chair is thick.	The notebook on the chair is thin and the book on the table is thick.
+170_v1_8_3	The castle and the cottage; the castle is bigger than the cottage.	The cottage and the castle; the cottage is bigger than the castle.	The cottage and the castle; the castle is bigger than the cottage.
+266_39_39	The keys on the left side of the keyboard are large and the ones on the right side are small.	The keys on the left side of the keyboard are small and the ones on the right side are large.	The keys on the right side of the keyboard are small and the ones on the left side are large.
+126_v1_286_244	The elephant in the zoo is large and the monkey in the cage is small.	The elephant in the zoo is small and the monkey in the cage is large.	The monkey in the cage is small and the elephant in the zoo is large.
+266_23_503	The pockets on the left side of the jacket are big and the ones on the right side are small.	The pockets on the left side of the jacket are small and the ones on the right side are big.	The jacket has big pockets on the left side and small ones on the right side.
+308_v2_118_432	A larger balloon is lifting a smaller one.	A smaller balloon is lifting a larger one.	A smaller one is being lifted by a larger balloon.
+127_405_288	There's a big book with a small font.	There's a small book with a big font.	There's a small font in a big book.
+126_v2_518_782	The house on the hill is big and the cottage on the shore is small.	The house on the hill is small and the cottage on the shore is big.	The big house is on the hill and the small cottage is on the shore.
+160_v2_25_11	A person; their torso is shorter than their legs.	A person; their legs are shorter than their torso.	Their legs are longer than their torso; a person.
+170_v1_65_31	The tractor-trailer and the car; the tractor-trailer is bigger than the car.	The car and the tractor-trailer; the car is bigger than the tractor-trailer.	The car and the tractor-trailer; the tractor-trailer is bigger than the car.
+1_343_585	The gigantic cruise ship sails past the tiny rowboat.	The tiny cruise ship sails past the gigantic rowboat.	Past the tiny rowboat, the gigantic cruise ship sails.
+43_61_51	A large elephant is near a tiny mouse.	A tiny elephant is near a large mouse.	A tiny mouse is near a large elephant.
+122_80_54	Thin woman beside a fat man.	Fat woman beside a thin man.	Fat man beside a thin woman.
+308_v2_450_656	A bigger dog is chasing a smaller cat.	A smaller dog is chasing a bigger cat.	A smaller cat is being chased by a bigger dog.
+160_v2_76_37	A house; its porch is shorter than its roof.	A house; its roof is shorter than its porch.	Its porch is shorter than its roof; a house.
+170_v1_87_39	The whale and the shark; the whale is bigger than the shark.	The shark and the whale; the shark is bigger than the whale.	The shark and the whale; the whale is bigger than the shark.
+1_460_636	The massive elephant trumpets at the tiny mouse.	The tiny elephant trumpets at the massive mouse.	The tiny mouse is trumpeted at by the massive elephant.
+1_100_449	The bulky wrestler pins the small opponent.	The small opponent pins the bulky wrestler.	The small opponent is pinned by the bulky wrestler.
+1_467_641	The petite woman lifts the massive weight with ease.	The massive woman lifts the petite weight with ease.	The massive weight is lifted with ease by the petite woman.
+117_31_29	The thick book is on the shelf and the thin notebook is on the table.	The thin book is on the shelf and the thick notebook is on the table.	The thin notebook is on the table and the thick book is on the shelf.
+43_461_363	A big elephant is walking alongside a tiny mouse.	A tiny elephant is walking alongside a big mouse.	A tiny mouse is walking alongside a big elephant.
+266_73_73	The wheels on the front of the car are big and the ones in the back are small.	The wheels on the front of the car are small and the ones in the back are big.	The ones in the back of the car are small and the wheels on the front are big.
+120_243_195	The book on the top shelf is thicker and the other books on the bottom shelf are thinner.	The book on the top shelf is thinner and the other books on the bottom shelf are thicker.	The other books on the bottom shelf are thinner and the book on the top shelf is thicker.
+185_462_291	There are two books on the shelf, and the book on the left is thicker than the book on the right.	There are two books on the shelf, and the book on the right is thicker than the book on the left.	There are two books on the shelf, and the book on the right is thinner than the book on the left.
+126_v1_250_218	The book on the shelf is thick and the magazine on the table is thin.	The book on the shelf is thin and the magazine on the table is thick.	The magazine on the table is thin and the book on the shelf is thick.
+105_69_256	There is a huge blue whale with a tiny orange clownfish.	There is a tiny orange whale with a huge blue clownfish.	There is a tiny orange clownfish with a huge blue whale.
+282_153_109	The small chair is beneath the large one.	The large chair is beneath the small one.	Beneath the large one is the small chair.
+126_v2_4_402	The book on the table is thick and the notebook on the shelf is thin.	The book on the table is thin and the notebook on the shelf is thick.	The notebook on the shelf is thin and the book on the table is thick.
+126_v2_287_625	The house on the hill is big and the cottage in the valley is small.	The house on the hill is small and the cottage in the valley is big.	The cottage in the valley is small and the house on the hill is big.
+160_v2_39_18	A flower; its stem is shorter than its petals.	A flower; its petals are shorter than its stem.	Its petals are longer than its stem; a flower.
+1_493_664	The colossal wave crashes onto the little boat.	The little wave crashes onto the colossal boat.	Onto the little boat, the colossal wave crashes.
+117_44_42	The long pencil is on the desk and the short pen is on the notebook.	The short pencil is on the desk and the long pen is on the notebook.	The short pen is on the notebook and the long pencil is on the desk.
+170_v2_140_297	A balloon floating above a child, and the balloon is bigger than the child.	A child floating above a balloon, and the child is bigger than the balloon.	Above a child, a balloon is floating, and it is bigger than the child.
+43_2_2	A large elephant is near a small mouse.	A small elephant is near a large mouse.	A small mouse is near a large elephant.
+266_81_81	The branches on the left side of the tree are thick and the ones on the right are thin.	The branches on the left side of the tree are thin and the ones on the right are thick.	The ones on the right side of the tree are thin and the branches on the left are thick.
+308_v1_91_31	A larger wave is crashing over a smaller boat.	A smaller wave is crashing over a larger boat.	A smaller boat is being overcome by a larger wave.
+308_v1_336_160	A bigger wave is crashing over a smaller boat.	A smaller wave is crashing over a bigger boat.	A smaller boat is being crashed over by a bigger wave.
+225_243_173	The big elephant is next to the small mouse.	The small elephant is next to the big mouse.	The small mouse is next to the big elephant.
+225_442_317	The long rope is tied to the short pole.	The short rope is tied to the long pole.	The short pole is tied to by the long rope.
+105_224_331	There is a huge elephant with a tiny mouse sitting on its back.	There is a tiny elephant with a huge mouse sitting on its back.	A tiny mouse is sitting on the back of a huge elephant.
+117_345_280	The big painting is on the wall and the small sculpture is on the table.	The small painting is on the wall and the big sculpture is on the table.	The small sculpture is on the table and the big painting is on the wall.
+266_58_58	The buttons on the left side of the shirt are big and the ones on the right side are small.	The buttons on the left side of the shirt are small and the ones on the right side are big.	The buttons on the right side of the shirt are small and the ones on the left side are big.
+126_v2_86_464	The shirt on the hanger has long sleeves and the t-shirt on the shelf has short sleeves.	The shirt on the hanger has short sleeves and the t-shirt on the shelf has long sleeves.	The t-shirt on the shelf has short sleeves and the shirt on the hanger has long sleeves.
+126_v2_186_548	The book on the shelf is thick and the book on the table is thin.	The book on the shelf is thin and the book on the table is thick.	The book on the table is thin and the book on the shelf is thick.
+160_v2_297_125	A balloon; its string is shorter than its inflated body.	A balloon; its inflated body is shorter than its string.	Its string is shorter than its inflated body; a balloon.
+170_v1_25_12	The elephant and the giraffe; the elephant is bigger than the giraffe.	The giraffe and the elephant; the giraffe is bigger than the elephant.	The giraffe and the elephant; the elephant is bigger than the giraffe.
+1_481_655	The massive truck crushes the tiny car.	The tiny truck crushes the massive car.	The tiny car is crushed by the massive truck.

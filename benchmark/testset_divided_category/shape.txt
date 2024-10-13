@@ -1,0 +1,50 @@
+282_54_44	The flat screen TV is beneath the curved one.	The curved screen TV is beneath the flat one.	Beneath the curved one is the flat screen TV.
+282_123_92	The diamond-shaped gem is beneath the heart-shaped one.	The heart-shaped gem is beneath the diamond-shaped one.	Beneath the heart-shaped one is the diamond-shaped gem.
+314_v1_150_403	All hats have brims except for one that is brimless.	All hats are brimless except for one that has a brim.	Except for one that is brimless, all hats have brims.
+33_64_44	The pentagonal prism has a rectangular base.	The rectangular prism has a pentagonal base.	The prism, which is pentagonal, has a rectangular base.
+282_480_235	The hexagonal box is beneath the circular one.	The circular box is beneath the hexagonal one.	Beneath the circular one is the hexagonal box.
+35_91_67	A triangular roof is atop a square building.	A square roof is atop a triangular building.	A square building is underneath a triangular roof.
+35_345_266	A octagonal stop sign is above a rectangular street sign.	A rectangular stop sign is above an octagonal street sign.	A rectangular street sign is below an octagonal stop sign.
+35_378_295	A pentagonal prism is above a rectangular base.	A rectangular prism is above a pentagonal base.	Above a rectangular base is a pentagonal prism.
+33_35_23	The pentagonal rug has a circular pattern.	The circular rug has a pentagonal pattern.	A circular pattern is on the pentagonal rug.
+33_455_303	The conical hat has a flat brim.	The flat hat has a conical brim.	The flat brim is on the conical hat.
+282_91_70	The cylindrical vase is beneath the spherical one.	The spherical vase is beneath the cylindrical one.	Beneath the spherical one is the cylindrical vase.
+35_1_1	A triangular hat is on top of a square box.	A square hat is on top of a triangular box.	On top of a square box is a triangular hat.
+35_122_97	A hexagonal mirror is above a oval mirror.	A oval mirror is above a hexagonal mirror.	An oval mirror is below a hexagonal mirror.
+35_142_112	A triangular flag is on top of a rectangular flag.	A rectangular flag is on top of a triangular flag.	On top of a rectangular flag is a triangular flag.
+35_375_292	A trapezoidal roof is above a rectangular house.	A rectangular roof is above a trapezoidal house.	Above a rectangular house is a trapezoidal roof.
+35_481_360	A diamond-shaped window is above a rectangular door.	A rectangular window is above a diamond-shaped door.	Above a rectangular door is a diamond-shaped window.
+35_485_363	A hexagonal clock is hanging over a rectangular mirror.	A rectangular clock is hanging over a hexagonal mirror.	Over a rectangular mirror, a hexagonal clock is hanging.
+35_489_367	A diamond-shaped sign is affixed on top of a triangular sign.	A triangular sign is affixed on top of a diamond-shaped sign.	On top of a triangular sign, a diamond-shaped sign is affixed.
+33_251_176	The octagonal clock has a triangular face.	The triangular clock has an octagonal face.	The triangular face is on the octagonal clock.
+126_v2_358_677	The hat on the shelf has a wide brim and the cap on the hook has a narrow brim.	The hat on the shelf has a narrow brim and the cap on the hook has a wide brim.	The cap on the hook has a narrow brim and the hat on the shelf has a wide brim.
+248_229_135	Two lamps; the one on the table has a shade and the one on the shelf doesn't.	Two lamps; the one on the shelf has a shade and the one on the table doesn't.	Two lamps; the one on the shelf doesn't have a shade and the one on the table has one.
+282_1_1	The rectangular table is beneath the circular one.	The circular table is beneath the rectangular one.	Beneath the circular one is the rectangular table.
+282_62_50	The conical hat is beneath the rectangular box.	The rectangular hat is beneath the conical box.	Beneath the rectangular box is the conical hat.
+183_31_29	The picture on the shelf is crooked while the picture on the wall is straight.	The picture on the wall is crooked while the picture on the shelf is straight.	The picture on the wall is straight while the picture on the shelf is crooked.
+35_3_3	A cylindrical vase is atop a rectangular table.	A rectangular vase is atop a cylindrical table.	A rectangular table is under a cylindrical vase.
+35_127_101	A cubical box is on top of a spherical box.	A spherical box is on top of a cubical box.	A spherical box is underneath a cubical box.
+266_12_12	The buttons on the red shirt are round and the ones on the blue shirt are square.	The buttons on the red shirt are square and the ones on the blue shirt are round.	The round buttons are on the red shirt and the square ones are on the blue shirt.
+266_88_88	The tiles on the left side of the floor are square and the ones on the right are round.	The tiles on the left side of the floor are round and the ones on the right are square.	The tiles on the right side of the floor are round and the ones on the left are square.
+33_67_47	The octagonal clock has a square face.	The square clock has an octagonal face.	The square face belongs to the octagonal clock.
+33_138_104	The octagonal clock has a round face.	The round clock has an octagonal face.	A round face is on the octagonal clock.
+225_307_207	The round clock is hanging above the square table.	The square clock is hanging above the round table.	Above the square table, the round clock is hanging.
+59_136_55	On the screen, there are three circles and two squares.	On the screen, there are two circles and three squares.	On the screen, there are two squares and three circles.
+35_20_19	A hexagonal shelf is on top of a circular stand.	A circular shelf is on top of a hexagonal stand.	On top of a circular stand is a hexagonal shelf.
+35_336_257	A pentagonal stop sign is above a rectangular street sign.	A rectangular stop sign is above a pentagonal street sign.	Above a rectangular street sign is a pentagonal stop sign.
+35_430_329	An oval mirror is above a rectangular dresser.	A rectangular mirror is above an oval dresser.	A rectangular dresser is below an oval mirror.
+35_477_358	A triangular flag is above a rectangular banner.	A rectangular flag is above a triangular banner.	Above a rectangular banner is a triangular flag.
+282_92_71	The diamond-shaped sign is beneath the rectangular one.	The rectangular sign is beneath the diamond-shaped one.	The rectangular sign is above the diamond-shaped one.
+282_122_91	The rectangular box is beneath the oval one.	The oval box is beneath the rectangular one.	Beneath the oval one is the rectangular box.
+282_392_205	The triangular shape is beneath the square one.	The square shape is beneath the triangular one.	Beneath the square one is the triangular shape.
+35_486_364	A spherical lamp is perched on a flat table.	A flat lamp is perched on a spherical table.	On a flat table, a spherical lamp is perched.
+126_v2_49_433	The pizza on the tray is round and the sandwich on the plate is square.	The pizza on the tray is square and the sandwich on the plate is round.	The sandwich on the plate is square and the pizza on the tray is round.
+328_455_381	The bird with a long beak pecks at the worm in front of the bird with a short beak.	The bird with a short beak pecks at the worm in front of the bird with a long beak.	The bird with a short beak watches as the bird with a long beak pecks at the worm in front of it.
+357_129_88	A bird with a long beak is flying in front of a bird without a beak.	A bird without a beak is flying in front of a bird with a long beak.	In front of a bird without a beak, a bird with a long beak is flying.
+117_250_204	The round clock is on the wall and the square painting is on the easel.	The square clock is on the wall and the round painting is on the easel.	On the wall is the round clock and on the easel is the square painting.
+117_468_365	The round ottoman is in the center of the room and the square stool is in the corner.	The square ottoman is in the center of the room and the round stool is in the corner.	The square stool is in the corner and the round ottoman is in the center of the room.
+248_239_143	Two mugs; the one on the coaster has a handle and the one on the counter doesn't.	Two mugs; the one on the counter has a handle and the one on the coaster doesn't.	Two mugs; the one with a handle is on the coaster and the one without a handle is on the counter.
+248_496_322	Two cups; the one on the saucer has a handle and the one on the shelf doesn't.	Two cups; the one on the shelf has a handle and the one on the saucer doesn't.	Two cups; the one on the shelf doesn't have a handle and the one on the saucer does.
+282_125_94	The hexagonal tile is beneath the octagonal one.	The octagonal tile is beneath the hexagonal one.	Beneath the octagonal one is the hexagonal tile.
+35_2_2	A diamond-shaped window is above a hexagonal door.	A hexagonal window is above a diamond-shaped door.	Above a hexagonal door is a diamond-shaped window.
+35_24_23	A heart-shaped pillow is on top of a star-shaped box.	A star-shaped pillow is on top of a heart-shaped box.	On top of a star-shaped box is a heart-shaped pillow.

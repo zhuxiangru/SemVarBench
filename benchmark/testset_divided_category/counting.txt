@@ -1,0 +1,50 @@
+60_170_147	The makeup artist has applied makeup with one brush and two sponges.	The makeup artist has applied makeup with two brushes and one sponge.	The makeup artist has used one brush and two sponges to apply makeup.
+59_55_39	In the fridge, there are five eggs and zero milk cartons.	In the fridge, there are zero eggs and five milk cartons.	In the fridge, there are zero milk cartons and five eggs.
+59_59_42	In the kitchen, there are five spoons and zero forks.	In the kitchen, there are zero spoons and five forks.	In the kitchen, there are zero forks and five spoons.
+380_v1_119_109	Four pillows on a bed and one pillow on the couch.	One pillow on a bed and four pillows on the couch.	On a bed are four pillows and on the couch is one pillow.
+380_v1_236_216	Two pillows on a bed and three pillows on a couch.	Three pillows on a bed and two pillows on a couch.	Three pillows on a couch and two pillows on a bed.
+59_49_35	In the bedroom, there are five pillows and zero blankets.	In the bedroom, there are zero pillows and five blankets.	In the bedroom, there are zero blankets and five pillows.
+59_56_40	In the classroom, there are three chairs and two desks.	In the classroom, there are two chairs and three desks.	In the classroom, there are two desks and three chairs.
+59_23_17	In the restaurant, there are three tables and two chairs.	In the restaurant, there are two tables and three chairs.	In the restaurant, there are two chairs and three tables.
+59_132_51	On the table, there are three plates and two glasses.	On the table, there are two plates and three glasses.	On the table, there are two glasses and three plates.
+380_v2_294_845	Four balloons tied to a string and one balloon floating away in the wind.	One balloon tied to a string and four balloons floating away in the wind.	One balloon is floating away in the wind, and four balloons are tied to a string.
+380_v1_152_138	Four kids riding bikes on the street and one kid skateboarding.	One kid riding bikes on the street and four kids skateboarding.	On the street, four kids are riding bikes and one kid is skateboarding.
+380_v2_297_848	Four cookies on a plate and one cookie half-eaten on the counter.	One cookie on a plate and four cookies half-eaten on the counter.	One cookie half-eaten on the counter and four cookies on a plate.
+380_v1_206_191	Four birds on a branch and one bird flying away.	One bird on a branch and four birds flying away.	One bird flying away and four birds on a branch.
+380_v1_345_312	Two balloons tied to a chair and three balloons floating in the air.	Three balloons tied to a chair and two balloons floating in the air.	Two balloons are tied to a chair, and in the air, three balloons are floating.
+59_136_55	On the screen, there are three circles and two squares.	On the screen, there are two circles and three squares.	On the screen, there are two squares and three circles.
+59_376_77	In the garden, there are three flowers and two trees.	In the garden, there are two flowers and three trees.	In the garden, there are two trees and three flowers.
+370_188_64	Four slices of bacon for one egg.	One slice of bacon for four eggs.	One egg for four slices of bacon.
+380_v2_24_699	Three horses trotting in the field and two riders guiding them.	Two horses trotting in the field and three riders guiding them.	Two riders guiding them and three horses trotting in the field.
+380_v2_255_814	Three basketball players shooting hoops on the court and two players resting on the bench.	Two basketball players shooting hoops on the court and three players resting on the bench.	On the court, three basketball players are shooting hoops and on the bench, two players are resting.
+380_v2_422_923	Three dogs playing tug-of-war in the yard and two dogs fetching the ball.	Two dogs playing tug-of-war in the yard and three dogs fetching the ball.	In the yard, three dogs are playing tug-of-war and two dogs are fetching the ball.
+59_153_69	In the classroom, there are four students and one teacher.	In the classroom, there is one student and four teachers.	In the classroom, there are one teacher and four students.
+380_v2_127_757	Three chefs cooking in the kitchen and one chef washing dishes.	One chef cooking in the kitchen and three chefs washing dishes.	One chef washing dishes and three chefs cooking in the kitchen.
+60_70_54	The tailor sewed the dress with one of the zippers and two of the buttons.	The tailor sewed the dress with two of the zippers and one of the buttons.	The tailor sewed the dress with two of the buttons and one of the zippers.
+60_163_142	The tailor has sewn a dress with one button and two zippers.	The tailor has sewn a dress with two buttons and one zipper.	The tailor has sewn a dress with two zippers and one button.
+60_246_197	The artist has painted the canvas with one stroke of blue and two strokes of yellow.	The artist has painted the canvas with two strokes of blue and one stroke of yellow.	The artist has painted the canvas with two strokes of yellow and one stroke of blue.
+60_335_283	The tailor has fitted one jacket and two pants for the client.	The tailor has fitted two jackets and one pant for the client.	For the client, the tailor has fitted one jacket and two pants.
+60_404_327	The teacher has graded the test with one red pen and two pencils.	The teacher has graded the test with two red pens and one pencil.	The teacher has graded the test with two pencils and one red pen.
+380_v1_123_112	Two dogs on a leash and three dogs running in a park.	Three dogs on a leash and two dogs running in a park.	Three dogs running in a park and two dogs on a leash.
+380_v1_177_162	Two kids playing video games and three kids playing board games.	Three kids playing video games and two kids playing board games.	Three kids playing board games and two kids playing video games.
+380_v1_190_175	Three construction workers on a scaffold and two workers on the ground.	Two construction workers on a scaffold and three workers on the ground.	Two workers on the ground and three construction workers on a scaffold.
+59_50_36	In the pool, there are four floaties and one diving board.	In the pool, there are one floatie and four diving boards.	In the pool, there is one diving board and four floaties.
+59_126_46	In the fridge, there are three eggs and two cucumbers.	In the fridge, there are two eggs and three cucumbers.	In the fridge, there are two cucumbers and three eggs.
+59_373_75	At the beach, there are three umbrellas and four chairs.	At the beach, there are four umbrellas and three chairs.	At the beach, there are four chairs and three umbrellas.
+59_378_79	In the office, there are two computers and three printers.	In the office, there are three computers and two printers.	In the office, there are three printers and two computers.
+59_383_84	At the concert, there are four musicians and one singer.	At the concert, there is one musician and four singers.	At the concert, there are one singer and four musicians.
+59_393_94	In the swimming pool, there are five swimmers and two lifeguards.	In the swimming pool, there are two swimmers and five lifeguards.	In the swimming pool, there are two lifeguards and five swimmers.
+380_v2_17_692	Two actors rehearsing their lines on the stage and three stagehands setting up props.	Three actors rehearsing their lines on the stage and two stagehands setting up props.	Three stagehands are setting up props and two actors are rehearsing their lines on the stage.
+380_v2_28_703	Four children playing on the playground and one parent pushing a swing.	One child playing on the playground and four parents pushing a swing.	One parent pushing a swing and four children playing on the playground.
+380_v2_60_729	Two firefighters putting out a fire and three firefighters rescuing people.	Three firefighters putting out a fire and two firefighters rescuing people.	Three firefighters rescuing people and two firefighters putting out a fire.
+380_v2_396_902	Two cats sleeping on the sofa and three cats playing with a toy.	Three cats sleeping on the sofa and two cats playing with a toy.	Three cats playing with a toy and two cats sleeping on the sofa.
+60_150_129	The bartender has served their customers with one of the beer kegs and two of the pint glasses.	The bartender has served their customers with two of the beer kegs and one of the pint glasses.	The bartender has served their customers with two of the pint glasses and one of the beer kegs.
+60_309_258	The tailor has sewn one button and two pockets onto the jacket.	The tailor has sewn two buttons and one pocket onto the jacket.	The tailor has sewn two pockets and one button onto the jacket.
+380_v1_69_65	Four flowers in a vase and one flower in a pot.	One flower in a vase and four flowers in a pot.	One flower in a pot and four flowers in a vase.
+380_v1_223_204	Four balloons tied to a chair and one balloon floating away.	One balloon tied to a chair and four balloons floating away.	One balloon floating away and four balloons tied to a chair.
+380_v1_225_206	Three fish in a tank and two fish swimming in the pond.	Two fish in a tank and three fish swimming in the pond.	Two fish swimming in the pond and three fish in a tank.
+59_13_10	In the stadium, there are two goals and three balls.	In the stadium, there are three goals and two balls.	In the stadium, there are three balls and two goals.
+59_144_62	In the gym, there are three treadmills and two weights.	In the gym, there are two treadmills and three weights.	In the gym, there are two weights and three treadmills.
+59_385_86	In the restaurant, there are five tables and two waiters.	In the restaurant, there are two tables and five waiters.	In the restaurant, there are two waiters and five tables.
+380_v2_56_573	Four chairs in a waiting room and one person sitting on the floor.	One chair in a waiting room and four people sitting on the floor.	One person is sitting on the floor and four chairs in a waiting room.
+380_v1_94_88	Three kids on a swing set and two kids playing on the jungle gym.	Two kids on a swing set and three kids playing on the jungle gym.	Two kids playing on the jungle gym and three kids on a swing set.

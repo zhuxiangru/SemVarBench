@@ -1,0 +1,50 @@
+125_503_169	Concrete sidewalks with brick buildings.	Brick sidewalks with concrete buildings.	Brick buildings with concrete sidewalks.
+282_191_131	The plastic cup is beneath the glass one.	The glass cup is beneath the plastic one.	Beneath the glass one is the plastic cup.
+126_v2_78_459	The shoe on the mat has laces and the slipper on the rug has no laces.	The shoe on the mat has no laces and the slipper on the rug has laces.	The slipper on the rug has no laces and the shoe on the mat has laces.
+126_v2_81_461	The piano in the room has wooden keys and the keyboard on the desk has plastic keys.	The piano in the room has plastic keys and the keyboard on the desk has wooden keys.	The keyboard on the desk has plastic keys and the piano in the room has wooden keys.
+127_108_87	There's a metal key with a plastic tag.	There's a plastic key with a metal tag.	A plastic tag is with a metal key.
+125_41_19	Copper pots with ceramic plates.	Ceramic pots with copper plates.	Ceramic plates with copper pots.
+125_43_21	Suede chairs with chrome legs.	Chrome chairs with suede legs.	Chrome-legged chairs with suede.
+117_405_323	The wooden spoon is in the drawer and the metal spatula is on the counter.	The metal spoon is in the drawer and the wooden spatula is on the counter.	The metal spatula is on the counter and the wooden spoon is in the drawer.
+107_v2_82_75	The gardener is wearing straw hats and rubber gloves.	The gardener is wearing rubber hats and straw gloves.	The gardener is wearing rubber gloves and straw hats.
+126_v1_326_272	The vase on the mantel is ceramic and the figurine on the shelf is glass.	The vase on the mantel is glass and the figurine on the shelf is ceramic.	The ceramic vase is on the mantel and the glass figurine is on the shelf.
+127_199_150	There's a steel knife with a wooden handle.	There's a wooden knife with a steel handle.	There's a knife with a wooden handle, made of steel.
+127_129_106	There's a steel watch with a leather band.	There's a leather watch with a steel band.	There's a leather band on a steel watch.
+127_214_162	There's a plastic spoon with a metal handle.	There's a metal spoon with a plastic handle.	There's a metal handle with a plastic spoon.
+127_264_197	There's a ceramic mug with a metal handle.	There's a metal mug with a ceramic handle.	A metal handle is on a ceramic mug.
+127_267_200	There's a plastic cup with a ceramic saucer.	There's a ceramic cup with a plastic saucer.	With a ceramic saucer, there's a plastic cup.
+127_459_319	There's a plastic toy with a metal mechanism.	There's a metal toy with a plastic mechanism.	There's a metal mechanism with a plastic toy.
+126_v2_425_725	The statue on the pedestal is marble and the vase on the shelf is ceramic.	The statue on the pedestal is ceramic and the vase on the shelf is marble.	The vase on the shelf is ceramic and the statue on the pedestal is marble.
+126_v2_514_779	The spoon on the saucer is silver and the fork on the plate is gold.	The spoon on the saucer is gold and the fork on the plate is silver.	The fork on the plate is gold and the spoon on the saucer is silver.
+125_51_25	Quartz countertops with ceramic sinks.	Ceramic countertops with quartz sinks.	Ceramic sinks with quartz countertops.
+125_166_57	Porcelain sinks with brass faucets.	Brass sinks with porcelain faucets.	Brass faucets with porcelain sinks.
+297_59_56	The cookie on the plate is chocolate chip and the one on the counter is not.	The cookie on the counter is chocolate chip and the one on the plate is not.	The one on the counter is not chocolate chip, while the cookie on the plate is.
+266_438_409	The first floors are marble and the upper ones are wood.	The first floors are wood and the upper ones are marble.	The upper floors are wood and the first ones are marble.
+127_120_98	There's a bamboo cutting board with a metal handle.	There's a metal cutting board with a bamboo handle.	There's a cutting board made of bamboo with a metal handle.
+126_v2_386_698	The mountain in the distance has snow on the peak and the hill in the foreground has grass on the slope.	The mountain in the distance has grass on the slope and the hill in the foreground has snow on the peak.	The hill in the foreground has grass on the slope, and the mountain in the distance has snow on the peak.
+127_4_4	There's a wooden chair with a leather cushion.	There's a leather chair with a wooden cushion.	There's a leather cushion with a wooden chair.
+127_140_114	There's a glass jar with a metal lid.	There's a metal jar with a glass lid.	A metal lid is on a glass jar.
+127_192_144	There's a ceramic bowl with a wooden spoon.	There's a wooden bowl with a ceramic spoon.	A wooden spoon is with a ceramic bowl.
+127_269_202	There's a wooden spoon with a silicone head.	There's a silicone spoon with a wooden head.	There's a silicone head on a wooden spoon.
+127_469_328	There's a wicker basket with a leather strap.	There's a leather basket with a wicker strap.	A leather strap is on a wicker basket.
+127_470_329	There's a plastic container with a metal lid.	There's a metal container with a plastic lid.	A metal lid is on a plastic container.
+127_485_340	There's a ceramic vase with a plastic base.	There's a plastic vase with a ceramic base.	There's a plastic base with a ceramic vase.
+126_v2_71_452	The cup on the saucer has white porcelain and the bowl on the mat has brown ceramic.	The cup on the saucer has brown ceramic and the bowl on the mat has white porcelain.	The bowl on the mat has brown ceramic, and the cup on the saucer has white porcelain.
+126_v2_246_597	The door in the garage has a metal material and the fence in the yard has a wooden material.	The door in the garage has a wooden material and the fence in the yard has a metal material.	The door in the garage has a metal material and the yard has a fence with a wooden material.
+126_v2_294_629	The chair in the corner is wooden and the couch in the middle is leather.	The chair in the corner is leather and the couch in the middle is wooden.	The couch in the middle is leather and the chair in the corner is wooden.
+125_6_6	Velvet sofas with leather armchairs.	Leather sofas with velvet armchairs.	Leather armchairs with velvet sofas.
+125_44_22	Concrete stairs with wrought iron railings.	Wrought iron stairs with concrete railings.	Wrought iron railings with concrete stairs.
+125_108_38	Tin lanterns with wooden walls.	Wooden lanterns with tin walls.	Wooden walls with tin lanterns.
+125_159_51	Granite stairs with iron railings.	Iron stairs with granite railings.	Iron railings with granite stairs.
+125_171_61	Glass countertops with stainless steel sinks.	Stainless steel countertops with glass sinks.	Stainless steel sinks with glass countertops.
+117_81_72	The furry teddy bear is on the bed and the plastic toy car is on the shelf.	The plastic teddy bear is on the bed and the furry toy car is on the shelf.	The plastic toy car is on the shelf and the furry teddy bear is on the bed.
+248_447_284	Two watches; the one on the left has a leather strap and the one on the right has a metal band.	Two watches; the one on the right has a leather strap and the one on the left has a metal band.	Two watches; the one with a leather strap is on the left and the one with a metal band is on the right.
+104_338_229	There is a silver watch with a black leather strap.	There is a black watch with a silver leather strap.	There is a black leather strap with a silver watch.
+225_440_315	The hard hat is next to the soft pillow.	The soft hat is next to the hard pillow.	The soft pillow is next to the hard hat.
+127_149_121	There's a plastic fork with a serrated edge.	There's a serrated fork with a plastic edge.	A serrated edge is on the plastic fork.
+127_454_316	There's a silver spoon with a gold handle.	There's a gold spoon with a silver handle.	There's a gold handle with a silver spoon.
+127_467_326	There's a stainless steel knife with a wooden handle.	There's a wooden knife with a stainless steel handle.	There's a knife with a stainless steel blade and a wooden handle.
+125_129_43	Marble countertops with wooden cabinets.	Wooden countertops with marble cabinets.	Wooden cabinets with marble countertops.
+297_57_54	The vase on the mantle is ceramic and the one on the shelf is not.	The vase on the shelf is ceramic and the one on the mantle is not.	The one on the shelf is not ceramic and the vase on the mantle is.
+261_v2_132_122	The biker is wearing a leather jacket over a denim shirt.	The biker is wearing a denim jacket over a leather shirt.	Over a denim shirt, the biker is wearing a leather jacket.
+126_v2_347_669	The chair in the corner has a wooden frame and the sofa in the center has a metal frame.	The chair in the corner has a metal frame and the sofa in the center has a wooden frame.	The sofa in the center has a metal frame and the chair in the corner has a wooden frame.

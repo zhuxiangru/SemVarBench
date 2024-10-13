@@ -1,0 +1,5 @@
+297_29_29	The bag on the hook is heavy and the one on the table is not.	The bag on the table is heavy and the one on the hook is not.	The one on the table is not heavy and the bag on the hook is.
+308_v2_252_523	A heavier weight is pressing down on a lighter weight.	A lighter weight is pressing down on a heavier weight.	A lighter weight is being pressed down by a heavier weight.
+308_v2_363_597	A heavier weight is pressing down on the lighter object on the scale.	A lighter weight is pressing down on the heavier object on the scale.	On the scale, a heavier weight is pressing down on the lighter object.
+308_v2_288_549	A heavier weight is pushing down on a lighter scale.	A lighter weight is pushing down on a heavier scale.	A lighter scale is being pushed down by a heavier weight.
+308_v2_379_610	A heavier book is covering the lighter one on the desk.	A lighter book is covering the heavier one on the desk.	On the desk, a heavier book is covering the lighter one.

@@ -1,0 +1,11 @@
+64_236_58	The baby's foot is on the mother's chest.	The mother's foot is on the baby's chest.	The mother's chest is under the baby's foot.
+341_v2_424_258	A child wearing a superhero cape with their fists in the air and a parent wearing a business suit.	A child wearing a business suit with their fists in the air and a parent wearing a superhero cape.	A parent wearing a business suit and a child wearing a superhero cape with their fists in the air.
+157_369_137	The adults are taller than the children.	The children are taller than the adults.	The children are shorter than the adults.
+276_4_2	The baby is crying while the mother is singing.	The baby is singing while the mother is crying.	While the mother is singing, the baby is crying.
+64_69_22	The elder teacher's hand is on the young student's shoulder.	The young student's hand is on the elder teacher's shoulder.	The young student's shoulder is under the elder teacher's hand.
+308_v2_167_467	A younger child is hugging the leg of an older parent.	An older parent is hugging the leg of a younger child.	The leg of an older parent is being hugged by a younger child.
+39_189_179	The old man is on the bench and the young child is on the swing.	The young child is on the bench and the old man is on the swing.	The young child is on the swing and the old man is on the bench.
+126_v2_519_783	The child in the stroller is sleeping and the adult on the bench is reading.	The child in the stroller is reading and the adult on the bench is sleeping.	The adult on the bench is reading and the child in the stroller is sleeping.
+349_415_121	A baby crying into a parent's ear.	A parent crying into a baby's ear.	Into a parent's ear, a baby is crying.
+39_82_81	The noisy baby is in the crib and the tired parent is in the bed.	The tired baby is in the crib and the noisy parent is in the bed.	The tired parent is in the bed and the noisy baby is in the crib.
+39_153_147	The happy child is in the pool and the worried parent is at the edge.	The worried child is in the pool and the happy parent is at the edge.	The worried parent is at the edge and the happy child is in the pool.
