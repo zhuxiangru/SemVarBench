@@ -36,7 +36,7 @@ We propose a novel metric called (**SemVarEffect**)() and a benchmark named (**S
 
 ## 🚩 New Updates 
 
-**[2024.10.14]** The test set of SemVarBench is released.
+**[2024.10]** The training/test set of SemVarBench is released.
 
 
 ## Citation
