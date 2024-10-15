@@ -2,7 +2,7 @@
 
 This repository contains the official implementation of [SemVarBench]().
 
->[**Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective**]()    
+>[**Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective**](http://arxiv.org/abs/2410.10291)    
 >[Xiangru Zhu](), 
 >[Penglei Sun](),
 >[Yaoxian Song](), 
