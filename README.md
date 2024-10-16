@@ -1,8 +1,8 @@
 ## Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective
 
-This repository contains the official implementation of [SemVarBench](https://arxiv.org/html/2410.10291v1).
+This repository contains the official implementation of [SemVarBench](https://arxiv.org/abs/2410.10291) ([backup](https://arxiv.org/html/2410.10291v1)). 
 
->[**Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective**](https://arxiv.org/html/2410.10291v1)    
+>[**Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective**](https://arxiv.org/abs/2410.10291)    
 >[Xiangru Zhu](), 
 >[Penglei Sun](),
 >[Yaoxian Song](), 
