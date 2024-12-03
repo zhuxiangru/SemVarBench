@@ -1,5 +1,9 @@
 ## Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective
 
+We propose a novel metric called **SemVarEffect** and a benchmark named **SemVarBench**, designed to evaluate the causality between semantic variations in inputs and outputs in T2I synthesis. 
+
+**The SemVarBench benchmark can be found in the benchmark directory** ./SemVarBench/tree/main/benchmark/
+
 <!-- This repository contains the official implementation of [SemVarBench](https://openreview.net/forum?id=NWb128pSCb) ([backup](https://arxiv.org/html/2410.10291v1)). -->
 
 <!-- >[**Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective**](https://openreview.net/forum?id=NWb128pSCb)    -->
@@ -34,9 +38,6 @@
 
 <!--We propose a novel metric called (**SemVarEffect**)() and a benchmark named (**SemVarBench**)(), designed to evaluate the causality between semantic variations in inputs and outputs in T2I synthesis.--> 
 
-We propose a novel metric called **SemVarEffect** and a benchmark named **SemVarBench**, designed to evaluate the causality between semantic variations in inputs and outputs in T2I synthesis. 
-
-**The SemVarBench benchmark can be found in the benchmark directory** ./SemVarBench/tree/main/benchmark/
 
 <!--## 🚩 New Updates --> 
 
