@@ -23,7 +23,7 @@
 
 <table class="center">
     <tr>
-    <td width=100% style="border: none"><img src="figs/evaluation_pipeline_ACE_v10.jpg" style="width:100%"></td>
+    <td width=100% style="border: none"><img src="figs/evaluation_pipeline_ACE_v11.png" style="width:100%"></td>
     </tr>
     <tr>
     <td width="100%" style="border: none; text-align: center; word-wrap: break-word">Overview of the evaluation based on SemVarBench.
