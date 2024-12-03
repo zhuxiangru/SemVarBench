@@ -2,16 +2,16 @@
 
 <!-- This repository contains the official implementation of [SemVarBench](https://openreview.net/forum?id=NWb128pSCb) ([backup](https://arxiv.org/html/2410.10291v1)). -->
 
-<!-->[**Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective**](https://openreview.net/forum?id=NWb128pSCb)    
->[Xiangru Zhu](), 
->[Penglei Sun](),
->[Yaoxian Song](), 
->[Yanghua Xiao](),
->[Zhixu Li](),
->[Chengyu Wang](), 
->[Jun Huang](),
->[Bei Yang](), 
->[Xiaoxiao Xu](),-->
+<!-- >[**Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective**](https://openreview.net/forum?id=NWb128pSCb)    -->
+<!-- >[Xiangru Zhu](), -->
+<!-- >[Penglei Sun](), -->
+<!-- >[Yaoxian Song](),  -->
+<!-- >[Yanghua Xiao](), -->
+<!-- >[Zhixu Li](), -->
+<!-- >[Chengyu Wang](), -->
+<!-- >[Jun Huang](), -->
+<!-- >[Bei Yang](),  -->
+<!-- >[Xiaoxiao Xu](),-->
 <!-- <br>**Fudan University, Hong Kong University of Science and Technology (Guangzhou), Zhejiang University, Renmin University of China, Alibaba Group**<br> -->
 
 <details>
