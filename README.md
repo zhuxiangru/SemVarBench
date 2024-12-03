@@ -36,7 +36,7 @@
 
 We propose a novel metric called **SemVarEffect** and a benchmark named **SemVarBench**, designed to evaluate the causality between semantic variations in inputs and outputs in T2I synthesis. 
 
-The SemVarBench benchmark can be found in the benchmark directory 
+**The SemVarBench benchmark can be found in the benchmark directory **
 
 <!--## 🚩 New Updates --> 
 
@@ -44,5 +44,5 @@ The SemVarBench benchmark can be found in the benchmark directory
 
 
 <!--## Citation --> 
-```
-```
+<!-- ``` --> 
+<!-- ``` --> 
