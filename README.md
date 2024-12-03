@@ -1,8 +1,8 @@
 ## Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective
 
-This repository contains the official implementation of [SemVarBench](https://openreview.net/forum?id=NWb128pSCb) ([backup](https://arxiv.org/html/2410.10291v1)). 
+<!-- This repository contains the official implementation of [SemVarBench](https://openreview.net/forum?id=NWb128pSCb) ([backup](https://arxiv.org/html/2410.10291v1)). -->
 
->[**Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective**](https://openreview.net/forum?id=NWb128pSCb)    
+<!-->[**Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective**](https://openreview.net/forum?id=NWb128pSCb)    
 >[Xiangru Zhu](), 
 >[Penglei Sun](),
 >[Yaoxian Song](), 
@@ -11,8 +11,8 @@ This repository contains the official implementation of [SemVarBench](https://op
 >[Chengyu Wang](), 
 >[Jun Huang](),
 >[Bei Yang](), 
->[Xiaoxiao Xu](),
-<br>**Fudan University, Hong Kong University of Science and Technology (Guangzhou), Zhejiang University, Renmin University of China, Alibaba Group**<br>
+>[Xiaoxiao Xu](),-->
+<!-- <br>**Fudan University, Hong Kong University of Science and Technology (Guangzhou), Zhejiang University, Renmin University of China, Alibaba Group**<br> -->
 
 <details>
     <summary>Click for full abstract</summary>
@@ -32,13 +32,17 @@ This repository contains the official implementation of [SemVarBench](https://op
 </table>
 
 
-We propose a novel metric called (**SemVarEffect**)() and a benchmark named (**SemVarBench**)(), designed to evaluate the causality between semantic variations in inputs and outputs in T2I synthesis. 
+<!--We propose a novel metric called (**SemVarEffect**)() and a benchmark named (**SemVarBench**)(), designed to evaluate the causality between semantic variations in inputs and outputs in T2I synthesis.--> 
 
-## 🚩 New Updates 
+We propose a novel metric called **SemVarEffect** and a benchmark named **SemVarBench**, designed to evaluate the causality between semantic variations in inputs and outputs in T2I synthesis. 
 
-**[2024.10]** The training/test set of SemVarBench is released.
+The SemVarBench benchmark can be found in the benchmark directory 
+
+<!--## 🚩 New Updates --> 
+
+<!--**[2024.10]** The training/test set of SemVarBench is released.--> 
 
 
-## Citation
+<!--## Citation --> 
 ```
 ```
