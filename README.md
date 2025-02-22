@@ -55,5 +55,12 @@ This repository contains the official implementation of [SemVarBench](https://op
 
 
 ## Citation 
-``` 
+If you find the data in our project useful, please consider citing our work as follows:
+```
+@article{zhu2024evaluating,
+  title={Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective},
+  author={Zhu, Xiangru and Sun, Penglei and Song, Yaoxian and Xiao, Yanghua and Li, Zhixu and Wang, Chengyu and Huang, Jun and Yang, Bei and Xu, Xiaoxiao},
+  journal={arXiv preprint arXiv:2410.10291},
+  year={2024}
+}
 ``` 
