@@ -56,8 +56,15 @@ This repository contains the official implementation of [SemVarBench](https://op
 
 **The SemVarBench benchmark can be found in the benchmark directory** ./SemVarBench/tree/main/benchmark/
 
+## Training
 
+## Inference
 
+## Evaluation
+
+## Experimental Results
+
+## Examples
 
 ## Citation 
 If you find the data in our project useful, please consider citing our work as follows:
