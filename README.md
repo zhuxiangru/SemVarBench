@@ -46,7 +46,9 @@ This repository contains the official implementation of [SemVarBench](https://op
 ## 🚩 New Updates 
 
 **[2023.10]** The previous work, the dataset of (**Winoground-T2I**)(https://github.com/zhuxiangru/Winoground-T2I), released.
+
 **[2024.10]** The training/test set of SemVarBench is released.
+
 **[2025.02]** This paper has been accepted to the ICLR 2025.
 
 
