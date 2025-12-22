@@ -78,10 +78,25 @@ This repository contains the official implementation of [SemVarBench](https://op
 ## Citation 
 If you find the data in our project useful, please consider citing our work as follows:
 ```
-@article{zhu2024evaluating,
-  title={Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective},
-  author={Zhu, Xiangru and Sun, Penglei and Song, Yaoxian and Xiao, Yanghua and Li, Zhixu and Wang, Chengyu and Huang, Jun and Yang, Bei and Xu, Xiaoxiao},
-  journal={arXiv preprint arXiv:2410.10291},
-  year={2024}
+@inproceedings{DBLP:conf/iclr/ZhuSSXL00YX25,
+  author       = {Xiangru Zhu and
+                  Penglei Sun and
+                  Yaoxian Song and
+                  Yanghua Xiao and
+                  Zhixu Li and
+                  Chengyu Wang and
+                  Jun Huang and
+                  Bei Yang and
+                  Xiaoxiao Xu},
+  title        = {Evaluating Semantic Variation in Text-to-Image Synthesis: {A} Causal
+                  Perspective},
+  booktitle    = {The Thirteenth International Conference on Learning Representations,
+                  {ICLR} 2025, Singapore, April 24-28, 2025},
+  publisher    = {OpenReview.net},
+  year         = {2025},
+  url          = {https://openreview.net/forum?id=NWb128pSCb},
+  timestamp    = {Thu, 15 May 2025 17:19:05 +0200},
+  biburl       = {https://dblp.org/rec/conf/iclr/ZhuSSXL00YX25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ``` 
